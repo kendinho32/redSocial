@@ -2,7 +2,7 @@
 
 // cargo el modulo de express
 var express = require('express');
-var PublicationController = require('../controllers/PublicationController');
+var PublicationController = require('../controllers/publicationController');
 var md_auth = require('../middlewares/authenticated'); // middlewares para la autenticacion del token
 var api = express.Router();
 
