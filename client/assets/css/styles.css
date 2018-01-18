@@ -1,0 +1,95 @@
+/* Generales */
+.h1-strong{
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: 13px;
+	margin-bottom: 20px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #EEE;
+}
+
+.active{
+/*	border-bottom: 3px solid yellow; */
+	background: #CC1717; 
+}
+
+/* Editando la cabecera */
+.navigation{
+	margin: 0px;
+	padding: 0px !important;
+}
+
+.navigation .navbar{
+	border-radius: 0px !important;
+	background: #E53C37 !important;
+	border: none;
+}
+
+.navigation .navbar *{
+	color: #FFF !important;
+}
+
+.navigation .navbar a:HOVER{
+	background: #CC1717 !important;
+}
+
+.navigation .navbar .dropdown-menu *{
+	color: black !important;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-nav>.open>a:focus{
+	background: #CC1717 !important;
+}
+
+.navigation .navbar .dropdown-menu a:HOVER{
+	background: #EEE !important;
+}
+
+.avatar{
+	width: 35px;
+	height: 35px;
+	border-radius: 100px;
+	overflow: hidden;
+	margin-top: 9px;
+	margin-right: 2px;
+}
+
+.navigation .avatar img{
+	height: auto;
+	width: 35px;
+}
+
+.jumbotron{
+	padding: 25px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.item-user .image-user{
+	width: 75px;
+	height: 75px;
+	border-radius: 100px;
+	overflow: hidden;
+	margin-right: 13px;
+}
+
+.item-user .image-user img{
+	width: 80px;	
+}
+
+.item-user .user-name{
+	margin-top: 10px;
+}
+
+.item-user .user-name .nickname{
+	color: #969393;
+}
+
+.item-user .user-name .name-surname a{
+	color: #666;
+	font-weight: bold;
+}

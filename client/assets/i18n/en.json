@@ -1,0 +1,65 @@
+{
+  "login": {
+    "title": "Log In",
+    "signup_link": "New to ng2-admin? Sign up!",
+    "email": "Email",
+    "password": "Password",
+    "sign_in": "Sign in",
+    "forgot_password": "Forgot password?",
+    "sign_from_app_text": "or Sign in with one click",
+    "share_on_facebook": "Share on Facebook",
+    "share_on_twitter": "Share on Twitter",
+    "share_on_google_plus": "Share on Google Plus"
+  },
+  "menu": {
+	"title": "SOCIAL CHEF",
+	"login": "Login",
+	"registrate": "Sign up",
+	"timeline": "Timeline",
+	"gente": "People",
+	"inicio": "Start",
+	"miPerfil": "My profile",
+	"misDatos": "My data",
+	"cerrarSesion": "Sign off"
+  },
+  "register": {
+	"title": "Log In",
+	"signup_link": "New to ng2-admin? Sign up!",
+	"email": "Email",
+	"password": "Password",
+	"sign_in": "Sign in",
+	"forgot_password": "Forgot password?",
+	"sign_from_app_text": "or Sign in with one click",
+	"share_on_facebook": "Share on Facebook",
+	"share_on_twitter": "Share on Twitter",
+	"share_on_google_plus": "Share on Google Plus"
+  },
+  "updateUser":{
+	"title": "Update My Data"
+  },
+  "error": {
+	"password_input": "The password is mandatory ...!",
+	"email_input": "The mail is not valid ...!",
+	"logIn": "You have not been able to identify correctly",
+	"register": "The registration could not be completed, maybe your email or nickname is already in use. Try again",
+	"user_input": "The name is obligatory...!",
+	"name_input": "The name is obligatory...!",
+	"surname_input": "The surname is obligatory...!",
+	"nick_input": "The nick is obligatory...!",
+	"updateUser" : "The data could not be updated, please try again",
+	"updateUser_nick" : "The nick is already in use"
+  },
+  "success": {
+	"logIn": "You have identified correctly, welcome!",
+	"register": "Registro completado correctamente,",
+	"updateUser": "Data updated correctly"
+  },
+  "common": {
+	"name": "Name",
+	"surname": "Surname",
+	"user": "User",
+	"email": "Email",
+	"password": "Password",
+	"identify_here": "Identify here"
+  }
+}

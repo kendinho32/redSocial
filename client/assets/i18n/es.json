@@ -1,0 +1,65 @@
+{
+  "login": {
+    "title": "Identificate",
+    "signup_link": "New to ng2-admin? Sign up!",
+    "email": "Email",
+    "password": "Correo Electronico",
+    "sign_in": "Ingresar",
+    "forgot_password": "Olvidaste tu clave?",
+    "sign_from_app_text": "or Sign in with one click",
+    "share_on_facebook": "Share on Facebook",
+    "share_on_twitter": "Share on Twitter",
+    "share_on_google_plus": "Share on Google Plus"
+  },
+  "menu": {
+	"title": "SOCIAL CHEF",
+	"login": "Login",
+	"registrate": "Registrate",
+	"timeline": "Cronologia",
+	"gente": "gente",
+	"inicio": "Inicio",
+	"miPerfil": "Mi perfil",
+	"misDatos": "Mis datos",
+	"cerrarSesion": "Cerrar Sesión"
+  },
+  "register": {
+	"title": "Registro",
+	"signup_link": "New to ng2-admin? Sign up!",
+	"email": "Email",
+	"password": "Correo Electronico",
+	"sign_in": "Sign in",
+	"forgot_password": "Forgot password?",
+	"sign_from_app_text": "or Sign in with one click",
+	"share_on_facebook": "Share on Facebook",
+	"share_on_twitter": "Share on Twitter",
+	"share_on_google_plus": "Share on Google Plus"
+  },
+  "updateUser":{
+	"title": "Actualizar mis datos"
+  },
+  "error": {
+	"password_input": "El password es obligatorio...!",
+	"email_input": "El correo no es valido...!",
+	"logIn": "No te has podido identificar correctamente",
+	"register": "El registro no pudo ser realizado, Tal vez tu correo o nickname ya esta en uso. Intenta de nuevo",
+	"user_input": "El nombre de usuario es obligatorio...!",
+	"name_input": "El nombre es obligatorio...!",
+	"surname_input": "El apellido es obligatorio...!",
+	"nick_input": "El nick es obligatorio...!",
+	"updateUser" : "Los datos no pudieron ser actualizados, por favor intente de nuevo",
+	"updateUser_nick" : "El nick ya se encuentra en uso"
+  },
+  "success": {
+	"logIn": "Te has identificado correctamente, Bienvenido",
+	"register": "Registro completado correctamente,",
+	"updateUser": "Datos actualizados correctamente"
+  },
+  "common": {
+	"name": "Nombre",
+	"surname": "Apellido",
+	"user": "Usuario",
+	"email": "Email",
+	"password": "Contraseña",
+	"identify_here": "Identificate aquí"
+  }
+}
